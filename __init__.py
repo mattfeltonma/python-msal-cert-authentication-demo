@@ -1,7 +1,6 @@
 # Import standard libraries
 import os
 import sys
-import re
 import logging
 import requests
 
