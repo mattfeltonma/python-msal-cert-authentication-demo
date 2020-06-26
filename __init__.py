@@ -79,7 +79,7 @@ def main():
             scopes=SCOPES
         )
 
-    print(mytoken)
+        print(mytoken)
 
     except Exception:
         logging.error('Execution error: ', exc_info=True)
